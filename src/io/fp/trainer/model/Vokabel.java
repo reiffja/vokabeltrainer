@@ -4,6 +4,7 @@ public class Vokabel {
 	
 	private String german;
 	private String english;
+	private String test;
 	
 	public Vokabel(String german, String english) {
 		this.german = german;
